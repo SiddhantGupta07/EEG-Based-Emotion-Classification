@@ -1,6 +1,6 @@
 # EEG-Emotion-classification
 
-# PROBLEM S TATEMENT
+# PROBLEM STATEMENT
 It is difficult to look at the EEG signal and identify the state of Human mind. In this assign-
 ment, the SVM classifier is trained with Deap dataset to predict the state of mind. the state of
 mind is predicted in terms of valence, arousal. which can further be used to predict the state
